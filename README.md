@@ -1,5 +1,5 @@
 ## Hello there! My name is Christian Morris.👋
-#### :computer: Full-stack developer who started as a Military service member pursuing a degree in CSCI
+#### :computer: Software developer who started as a Military service member pursuing a degree in CSCI
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 	![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -16,7 +16,7 @@
 * 🤖: Linear regression model that computes predictions on 
 
 #### :performing_arts: -> Hobbies
-#### I am a huge fan of Dark Souls :video_game: and enjoy learning new technologies and playing guitar!
+#### I am a huge fan of Dark Souls ⚔️: and enjoy learning new technologies and playing guitar!
 --------------------------------------------------------------------------------
 
 #### Languages
