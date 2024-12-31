@@ -16,7 +16,7 @@
 * 🤖: Linear regression model that computes predictions on 
 
 #### :performing_arts: -> Hobbies
-#### I am a huge fan of Dark Souls ⚔️: and enjoy learning new technologies and playing guitar!
+#### I am a huge fan of Dark Souls ⚔️, enjoy learning new technologies, and playing guitar!
 --------------------------------------------------------------------------------
 
 #### Languages
