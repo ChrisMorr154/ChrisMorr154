@@ -11,9 +11,9 @@
 
 -------------------------------------------------------------------------------
 #### 🔭 -> Highest Acomplishments:
-* 👁️: OCULUS SETUP: Desktop application for Oculus inc. that streamlines company computer and device setup
-* 🎮: Age of Heros. Clone of the old facebook game "Age of champions"
-* 🤖: Linear regression model that computes predictions on 
+* 👟: Northside Full stack application
+* 🎮: Age of blocks. Clone of the old facebook game "Age of champions"
+* 🤠: Personal webpage
 
 #### :performing_arts: -> Hobbies
 #### I am a huge fan of Dark Souls ⚔️, enjoy learning new technologies, and playing guitar!
