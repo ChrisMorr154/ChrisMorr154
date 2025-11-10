@@ -15,15 +15,11 @@
 * 🤠: Personal webpage
 
 #### :performing_arts: -> Hobbies
-#### I am a huge fan of Dark Souls ⚔️, enjoy learning new technologies, and playing guitar!
+#### I am a huge fan of hiking, enjoy learning new technologies, and playing guitar!
 --------------------------------------------------------------------------------
 
 #### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMorr154&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ChrisMorr154)](https://git.io/streak-stats)
-
 
 #### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMorr154&count_private=true&show_icons=true&theme=tokyonight)
