@@ -1,0 +1,52 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- name color-->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a"/>      <!-- deep navy -->
+      <stop offset="50%" stop-color="#3b82f6"/>     <!-- azure blue -->
+      <stop offset="100%" stop-color="#94a3b8"/>    <!-- soft silver-gray -->
+    </linearGradient>
+
+    <!-- Slight glow-->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="none"/>
+
+  <line x1="80" y1="60" x2="820" y2="60" stroke="#6b7280" stroke-width="1" opacity="0.25"/>
+  <line x1="80" y1="170" x2="820" y2="170" stroke="#6b7280" stroke-width="1" opacity="0.25"/>
+
+  <!-- Main Name -->
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="56"
+    font-weight="700"
+    fill="url(#textGradient)"
+    filter="url(#glow)"
+  >
+    Christian Morris
+  </text>
+
+  <!-- Subtitle -->
+  <text
+    x="50%"
+    y="64%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="18"
+    fill="#6b7280"
+  >
+    Software Developer · Automation & DevOps Enthusiast
+  </text>
+</svg>
