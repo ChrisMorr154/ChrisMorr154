@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="(https://raw.githubusercontent.com/ChrisMorr154/ChrisMorr154/refs/heads/main/christian.svg)" alt="Christian Morris" />
+  <img src="https://raw.githubusercontent.com/ChrisMorr154/ChrisMorr154/refs/heads/main/christian.svg" alt="Christian Morris" />
 </h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
