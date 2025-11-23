@@ -8,33 +8,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
--------------------------------------------------------------------------------
-#### 🔭 -> Highest Acomplishments:
-* 👟: Northside Full stack application
-* 🎮: Age of blocks. Clone of the old facebook game "Age of champions"
-* 🤠: Personal webpage
-
-#### :performing_arts: -> Hobbies
-#### I am a huge fan of hiking, enjoy learning new technologies, and playing guitar!
---------------------------------------------------------------------------------
-
 #### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMorr154&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMorr154&count_private=true&show_icons=true&theme=tokyonight)
 
 #### Profile Views
 ![](https://komarev.com/ghpvc/?username=ChrisMorr154&color=orange)
 
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
