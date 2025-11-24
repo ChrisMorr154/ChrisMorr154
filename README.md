@@ -3,7 +3,7 @@
 </h1>
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-2C2D72?style=for-the-badge&logo=bicep&logoColor=blue)
+![Bicep](https://img.shields.io/badge/Bicep-2C2D72?style=for-the-badge&logo=bicep&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
