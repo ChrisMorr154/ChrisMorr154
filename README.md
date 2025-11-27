@@ -24,5 +24,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMorr154&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Profile Views
-![](https://komarev.com/ghpvc/?username=ChrisMorr154&color=orange)
+![](https://komarev.com/ghpvc/?username=ChrisMorr154&color=blue)
 
