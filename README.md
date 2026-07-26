@@ -21,7 +21,7 @@
 
 
 #### Languages
-[![Christian's GitHub Languages](https://github-stats-extended.vercel.app/api?username=ChrisMorr154)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ChrisMorr154&size_weight=0.5&count_weight=0.5)
 
 #### Profile Views
 ![](https://komarev.com/ghpvc/?username=ChrisMorr154&color=blue)
