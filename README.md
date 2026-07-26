@@ -21,7 +21,7 @@
 
 
 #### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMorr154&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Christian's GitHub stats](https://github-stats-extended.vercel.app/api?ChrisMorr154=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 #### Profile Views
 ![](https://komarev.com/ghpvc/?username=ChrisMorr154&color=blue)
